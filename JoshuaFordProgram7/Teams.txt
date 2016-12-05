@@ -1,0 +1,6 @@
+Team 1 solved 3 in 285 minutes.
+Team 2 solved 4 in 582 minutes.
+Team 3 solved 3 in 471 minutes.
+Team 4 solved 2 in 399 minutes.
+Team 5 solved 1 in 126 minutes.
+Team 6 solved 0 in 0 minutes.
